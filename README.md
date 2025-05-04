@@ -11,7 +11,9 @@ First, you need to create the shortcut in djay pro that will play and pause the 
 In QLab, use the following scripts to start and fade.
 
 [Start script:](djay-play.scpt)
+
 ![Start script](https://github.com/johnhart96/QLab-Djaypro-control/blob/239b98a8ff54891463cc6842ff924ba63630a4c7/Screenshot%202025-05-04%20at%2007.16.59.png)
 
 [Fade & Stop script:](djay-fade.scpt)
+
 ![Fade script](https://github.com/johnhart96/QLab-Djaypro-control/blob/main/Screenshot%202025-05-04%20at%2007.17.16.png)
